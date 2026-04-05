@@ -1,4 +1,5 @@
 Streamlining Ticket Assignment for Efficient Support Operations
+
 📌 Project Overview
 
 This project focuses on improving the efficiency of support operations by automating the ticket assignment process in ServiceNow. In many organizations, tickets are manually assigned to agents, which can lead to delays, improper allocation, and reduced productivity.
